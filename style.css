@@ -8,7 +8,7 @@ body{
     overflow-y: auto;
     overflow-x: auto;
     font-family: 'Josefin Sans', sans-serif;
-    background-color:#435C75 ;
+    background-color: gray ;
 }
 .flex-container-menu{
     display: inline;
